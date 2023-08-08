@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="top_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="top_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="206.601 ns"></ZoomEndTime>
+      <Cursor1Time time="157.200 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="340"></NameColumnWidth>
+      <ValueColumnWidth column_width="155"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="28" />
+   <wvobject fp_name="/top_tb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/top_inst/mips_inst/controler_inst/op" type="array">
+      <obj_property name="ElementShortName">op[5:0]</obj_property>
+      <obj_property name="ObjectShortName">op[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/top_inst/mips_inst/controler_inst/alu_funct" type="array">
+      <obj_property name="ElementShortName">alu_funct[5:0]</obj_property>
+      <obj_property name="ObjectShortName">alu_funct[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/top_inst/mips_inst/controler_inst/isZero" type="logic">
+      <obj_property name="ElementShortName">isZero</obj_property>
+      <obj_property name="ObjectShortName">isZero</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/top_inst/mips_inst/controler_inst/memtoreg" type="logic">
+      <obj_property name="ElementShortName">memtoreg</obj_property>
+      <obj_property name="ObjectShortName">memtoreg</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/top_inst/mips_inst/controler_inst/memwrite" type="logic">
+      <obj_property name="ElementShortName">memwrite</obj_property>
+      <obj_property name="ObjectShortName">memwrite</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/top_inst/mips_inst/controler_inst/pcsrc" type="logic">
+      <obj_property name="ElementShortName">pcsrc</obj_property>
+      <obj_property name="ObjectShortName">pcsrc</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/top_inst/mips_inst/controler_inst/alusrc" type="logic">
+      <obj_property name="ElementShortName">alusrc</obj_property>
+      <obj_property name="ObjectShortName">alusrc</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/top_inst/mips_inst/controler_inst/regdst" type="logic">
+      <obj_property name="ElementShortName">regdst</obj_property>
+      <obj_property name="ObjectShortName">regdst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/top_inst/mips_inst/controler_inst/regwrite" type="logic">
+      <obj_property name="ElementShortName">regwrite</obj_property>
+      <obj_property name="ObjectShortName">regwrite</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/top_inst/mips_inst/controler_inst/jump" type="logic">
+      <obj_property name="ElementShortName">jump</obj_property>
+      <obj_property name="ObjectShortName">jump</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/top_inst/mips_inst/controler_inst/control" type="array">
+      <obj_property name="ElementShortName">control[2:0]</obj_property>
+      <obj_property name="ObjectShortName">control[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/top_inst/mips_inst/controler_inst/aluop" type="array">
+      <obj_property name="ElementShortName">aluop[1:0]</obj_property>
+      <obj_property name="ObjectShortName">aluop[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/top_inst/mips_inst/controler_inst/branch" type="logic">
+      <obj_property name="ElementShortName">branch</obj_property>
+      <obj_property name="ObjectShortName">branch</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/top_inst/mips_inst/datapath_inst/i_addr" type="array">
+      <obj_property name="ElementShortName">i_addr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">i_addr[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/top_inst/mips_inst/datapath_inst/addr" type="array">
+      <obj_property name="ElementShortName">addr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">addr[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/top_inst/mips_inst/datapath_inst/pc_plus4" type="array">
+      <obj_property name="ElementShortName">pc_plus4[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pc_plus4[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/top_inst/mips_inst/datapath_inst/pc_branch" type="array">
+      <obj_property name="ElementShortName">pc_branch[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pc_branch[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/top_inst/mips_inst/datapath_inst/pc_imm" type="array">
+      <obj_property name="ElementShortName">pc_imm[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pc_imm[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/top_inst/mips_inst/datapath_inst/branch_mux_addr" type="array">
+      <obj_property name="ElementShortName">branch_mux_addr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">branch_mux_addr[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/top_inst/mips_inst/datapath_inst/instr" type="array">
+      <obj_property name="ElementShortName">instr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">instr[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/top_inst/mips_inst/datapath_inst/w_regAddr" type="array">
+      <obj_property name="ElementShortName">w_regAddr[5:0]</obj_property>
+      <obj_property name="ObjectShortName">w_regAddr[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/top_inst/mips_inst/datapath_inst/srcA" type="array">
+      <obj_property name="ElementShortName">srcA[31:0]</obj_property>
+      <obj_property name="ObjectShortName">srcA[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/top_inst/mips_inst/datapath_inst/tempB" type="array">
+      <obj_property name="ElementShortName">tempB[31:0]</obj_property>
+      <obj_property name="ObjectShortName">tempB[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/top_inst/mips_inst/datapath_inst/srcB" type="array">
+      <obj_property name="ElementShortName">srcB[31:0]</obj_property>
+      <obj_property name="ObjectShortName">srcB[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/top_inst/mips_inst/datapath_inst/imm32" type="array">
+      <obj_property name="ElementShortName">imm32[31:0]</obj_property>
+      <obj_property name="ObjectShortName">imm32[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/top_inst/mips_inst/datapath_inst/result" type="array">
+      <obj_property name="ElementShortName">result[31:0]</obj_property>
+      <obj_property name="ObjectShortName">result[31:0]</obj_property>
+   </wvobject>
+</wave_config>

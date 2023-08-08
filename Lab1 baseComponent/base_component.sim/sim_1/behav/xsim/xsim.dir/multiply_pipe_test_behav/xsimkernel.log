@@ -1,0 +1,4 @@
+Running: xsim.dir/multiply_pipe_test_behav/xsimk.exe -simmode gui -wdb multiply_pipe_test_behav.wdb -simrunnum 0 -socket 9722
+Design successfully loaded
+Design Loading Memory Usage: 9280 KB (Peak: 9280 KB)
+Design Loading CPU Usage: 0 ms

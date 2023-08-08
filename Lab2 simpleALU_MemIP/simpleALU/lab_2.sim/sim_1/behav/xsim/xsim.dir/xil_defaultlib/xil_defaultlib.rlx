@@ -1,0 +1,10 @@
+0.7
+2020.2
+May  7 2023
+15:24:31
+E:/Projects/Architecture_Learn/Vivado_exercise/mips_cpu/Lab2 simpleALU_MemIP/simpleALU/lab_2.sim/sim_1/behav/xsim/glbl.v,1683266558,verilog,,,,glbl,,,,,,,,
+E:/Projects/Architecture_Learn/Vivado_exercise/mips_cpu/Lab2 simpleALU_MemIP/simpleALU/lab_2.srcs/sim_1/new/alutop_tb.v,1691249286,verilog,,,,alutop_tb,,,,,,,,
+E:/Projects/Architecture_Learn/Vivado_exercise/mips_cpu/Lab2 simpleALU_MemIP/simpleALU/lab_2.srcs/sources_1/new/lab2_aluDesign.v,1691211783,verilog,,E:/Projects/Architecture_Learn/Vivado_exercise/mips_cpu/Lab2 simpleALU_MemIP/simpleALU/lab_2.srcs/sources_1/new/lab2_alutop.v,,aluDesign,,,,,,,,
+E:/Projects/Architecture_Learn/Vivado_exercise/mips_cpu/Lab2 simpleALU_MemIP/simpleALU/lab_2.srcs/sources_1/new/lab2_alutop.v,1691211975,verilog,,E:/Projects/Architecture_Learn/Vivado_exercise/mips_cpu/Lab2 simpleALU_MemIP/simpleALU/lab_2.srcs/sources_1/new/lab2_digitshow.v,,alutop,,,,,,,,
+E:/Projects/Architecture_Learn/Vivado_exercise/mips_cpu/Lab2 simpleALU_MemIP/simpleALU/lab_2.srcs/sources_1/new/lab2_digitshow.v,1691211933,verilog,,E:/Projects/Architecture_Learn/Vivado_exercise/mips_cpu/Lab2 simpleALU_MemIP/simpleALU/lab_2.srcs/sources_1/new/lab2_sevendigit.v,,digitshow,,,,,,,,
+E:/Projects/Architecture_Learn/Vivado_exercise/mips_cpu/Lab2 simpleALU_MemIP/simpleALU/lab_2.srcs/sources_1/new/lab2_sevendigit.v,1691211774,verilog,,E:/Projects/Architecture_Learn/Vivado_exercise/mips_cpu/Lab2 simpleALU_MemIP/simpleALU/lab_2.srcs/sim_1/new/alutop_tb.v,,sevendigit,,,,,,,,

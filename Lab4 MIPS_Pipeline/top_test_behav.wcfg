@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="top_test_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="top_test" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="218.660 ns"></ZoomStartTime>
+      <ZoomEndTime time="539.261 ns"></ZoomEndTime>
+      <Cursor1Time time="342.860 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="144"></NameColumnWidth>
+      <ValueColumnWidth column_width="121"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="60" />
+   <wvobject fp_name="/top_test/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/op" type="array">
+      <obj_property name="ElementShortName">op[5:0]</obj_property>
+      <obj_property name="ObjectShortName">op[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/alu_funct" type="array">
+      <obj_property name="ElementShortName">alu_funct[5:0]</obj_property>
+      <obj_property name="ObjectShortName">alu_funct[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/branchD" type="logic">
+      <obj_property name="ElementShortName">branchD</obj_property>
+      <obj_property name="ObjectShortName">branchD</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/memToRegE" type="logic">
+      <obj_property name="ElementShortName">memToRegE</obj_property>
+      <obj_property name="ObjectShortName">memToRegE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/memToRegM" type="logic">
+      <obj_property name="ElementShortName">memToRegM</obj_property>
+      <obj_property name="ObjectShortName">memToRegM</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/regWriteE" type="logic">
+      <obj_property name="ElementShortName">regWriteE</obj_property>
+      <obj_property name="ObjectShortName">regWriteE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/regWriteM" type="logic">
+      <obj_property name="ElementShortName">regWriteM</obj_property>
+      <obj_property name="ObjectShortName">regWriteM</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/regWriteW" type="logic">
+      <obj_property name="ElementShortName">regWriteW</obj_property>
+      <obj_property name="ObjectShortName">regWriteW</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/freshE" type="logic">
+      <obj_property name="ElementShortName">freshE</obj_property>
+      <obj_property name="ObjectShortName">freshE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/pcSrcD" type="logic">
+      <obj_property name="ElementShortName">pcSrcD</obj_property>
+      <obj_property name="ObjectShortName">pcSrcD</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/jumpD" type="logic">
+      <obj_property name="ElementShortName">jumpD</obj_property>
+      <obj_property name="ObjectShortName">jumpD</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/isBeq" type="logic">
+      <obj_property name="ElementShortName">isBeq</obj_property>
+      <obj_property name="ObjectShortName">isBeq</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/regDstE" type="logic">
+      <obj_property name="ElementShortName">regDstE</obj_property>
+      <obj_property name="ObjectShortName">regDstE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/stallF" type="logic">
+      <obj_property name="ElementShortName">stallF</obj_property>
+      <obj_property name="ObjectShortName">stallF</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/stallD" type="logic">
+      <obj_property name="ElementShortName">stallD</obj_property>
+      <obj_property name="ObjectShortName">stallD</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/alusrcE" type="logic">
+      <obj_property name="ElementShortName">alusrcE</obj_property>
+      <obj_property name="ObjectShortName">alusrcE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/memToRegW" type="logic">
+      <obj_property name="ElementShortName">memToRegW</obj_property>
+      <obj_property name="ObjectShortName">memToRegW</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/pcPlus4F" type="array">
+      <obj_property name="ElementShortName">pcPlus4F[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pcPlus4F[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/pcBranchD" type="array">
+      <obj_property name="ElementShortName">pcBranchD[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pcBranchD[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/pcTempF" type="array">
+      <obj_property name="ElementShortName">pcTempF[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pcTempF[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/pc_next" type="array">
+      <obj_property name="ElementShortName">pc_next[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pc_next[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/pcAddr" type="array">
+      <obj_property name="ElementShortName">pcAddr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pcAddr[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/instrF" type="array">
+      <obj_property name="ElementShortName">instrF[31:0]</obj_property>
+      <obj_property name="ObjectShortName">instrF[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/instrD" type="array">
+      <obj_property name="ElementShortName">instrD[31:0]</obj_property>
+      <obj_property name="ObjectShortName">instrD[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/forwardAD" type="array">
+      <obj_property name="ElementShortName">forwardAD[1:0]</obj_property>
+      <obj_property name="ObjectShortName">forwardAD[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/forwardBD" type="array">
+      <obj_property name="ElementShortName">forwardBD[1:0]</obj_property>
+      <obj_property name="ObjectShortName">forwardBD[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/pcPlus4D" type="array">
+      <obj_property name="ElementShortName">pcPlus4D[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pcPlus4D[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/signImmD" type="array">
+      <obj_property name="ElementShortName">signImmD[31:0]</obj_property>
+      <obj_property name="ObjectShortName">signImmD[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/signImmD_L2" type="array">
+      <obj_property name="ElementShortName">signImmD_L2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">signImmD_L2[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/rsD" type="array">
+      <obj_property name="ElementShortName">rsD[4:0]</obj_property>
+      <obj_property name="ObjectShortName">rsD[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/rtD" type="array">
+      <obj_property name="ElementShortName">rtD[4:0]</obj_property>
+      <obj_property name="ObjectShortName">rtD[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/rdD" type="array">
+      <obj_property name="ElementShortName">rdD[4:0]</obj_property>
+      <obj_property name="ObjectShortName">rdD[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/readRegAD" type="array">
+      <obj_property name="ElementShortName">readRegAD[31:0]</obj_property>
+      <obj_property name="ObjectShortName">readRegAD[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/readRegBD" type="array">
+      <obj_property name="ElementShortName">readRegBD[31:0]</obj_property>
+      <obj_property name="ObjectShortName">readRegBD[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/beqAD" type="array">
+      <obj_property name="ElementShortName">beqAD[31:0]</obj_property>
+      <obj_property name="ObjectShortName">beqAD[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/beqBD" type="array">
+      <obj_property name="ElementShortName">beqBD[31:0]</obj_property>
+      <obj_property name="ObjectShortName">beqBD[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/forwardAE" type="array">
+      <obj_property name="ElementShortName">forwardAE[1:0]</obj_property>
+      <obj_property name="ObjectShortName">forwardAE[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/forwardBE" type="array">
+      <obj_property name="ElementShortName">forwardBE[1:0]</obj_property>
+      <obj_property name="ObjectShortName">forwardBE[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/rsE" type="array">
+      <obj_property name="ElementShortName">rsE[4:0]</obj_property>
+      <obj_property name="ObjectShortName">rsE[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/rtE" type="array">
+      <obj_property name="ElementShortName">rtE[4:0]</obj_property>
+      <obj_property name="ObjectShortName">rtE[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/rdE" type="array">
+      <obj_property name="ElementShortName">rdE[4:0]</obj_property>
+      <obj_property name="ObjectShortName">rdE[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/readRegAE" type="array">
+      <obj_property name="ElementShortName">readRegAE[31:0]</obj_property>
+      <obj_property name="ObjectShortName">readRegAE[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/readRegBE" type="array">
+      <obj_property name="ElementShortName">readRegBE[31:0]</obj_property>
+      <obj_property name="ObjectShortName">readRegBE[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/aluControlE" type="array">
+      <obj_property name="ElementShortName">aluControlE[2:0]</obj_property>
+      <obj_property name="ObjectShortName">aluControlE[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/aluOutE" type="array">
+      <obj_property name="ElementShortName">aluOutE[31:0]</obj_property>
+      <obj_property name="ObjectShortName">aluOutE[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/srcAE" type="array">
+      <obj_property name="ElementShortName">srcAE[31:0]</obj_property>
+      <obj_property name="ObjectShortName">srcAE[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/srcBE" type="array">
+      <obj_property name="ElementShortName">srcBE[31:0]</obj_property>
+      <obj_property name="ObjectShortName">srcBE[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/writeDataE" type="array">
+      <obj_property name="ElementShortName">writeDataE[31:0]</obj_property>
+      <obj_property name="ObjectShortName">writeDataE[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/writeRegE" type="array">
+      <obj_property name="ElementShortName">writeRegE[4:0]</obj_property>
+      <obj_property name="ObjectShortName">writeRegE[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/signImmE" type="array">
+      <obj_property name="ElementShortName">signImmE[31:0]</obj_property>
+      <obj_property name="ObjectShortName">signImmE[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/aluOutM" type="array">
+      <obj_property name="ElementShortName">aluOutM[31:0]</obj_property>
+      <obj_property name="ObjectShortName">aluOutM[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/writeRegM" type="array">
+      <obj_property name="ElementShortName">writeRegM[4:0]</obj_property>
+      <obj_property name="ObjectShortName">writeRegM[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/writeDataM" type="array">
+      <obj_property name="ElementShortName">writeDataM[31:0]</obj_property>
+      <obj_property name="ObjectShortName">writeDataM[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/readDataM" type="array">
+      <obj_property name="ElementShortName">readDataM[31:0]</obj_property>
+      <obj_property name="ObjectShortName">readDataM[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/aluOutW" type="array">
+      <obj_property name="ElementShortName">aluOutW[31:0]</obj_property>
+      <obj_property name="ObjectShortName">aluOutW[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/readDataW" type="array">
+      <obj_property name="ElementShortName">readDataW[31:0]</obj_property>
+      <obj_property name="ObjectShortName">readDataW[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/writeRegW" type="array">
+      <obj_property name="ElementShortName">writeRegW[4:0]</obj_property>
+      <obj_property name="ObjectShortName">writeRegW[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/mips_inst/datapath_inst/resultW" type="array">
+      <obj_property name="ElementShortName">resultW[31:0]</obj_property>
+      <obj_property name="ObjectShortName">resultW[31:0]</obj_property>
+   </wvobject>
+</wave_config>

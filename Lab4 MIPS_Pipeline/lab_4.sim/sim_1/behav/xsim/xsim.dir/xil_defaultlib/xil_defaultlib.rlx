@@ -1,0 +1,27 @@
+0.7
+2020.2
+May  7 2023
+15:24:31
+E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.gen/sources_1/ip/dataMem/sim/dataMem.v,1691518023,verilog,,E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.gen/sources_1/ip/instMem/sim/instMem.v,,dataMem,,,,,,,,
+E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.gen/sources_1/ip/instMem/sim/instMem.v,1691517971,verilog,,E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.srcs/sources_1/new/adder.v,,instMem,,,,,,,,
+E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.sim/sim_1/behav/xsim/glbl.v,1683266558,verilog,,,,glbl,,,,,,,,
+E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.srcs/sim_1/new/top_test.v,1690826353,verilog,,,,top_test,,,,,,,,
+E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.srcs/sources_1/new/adder.v,1690718214,verilog,,E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.srcs/sources_1/new/alu.v,,adder,,,,,,,,
+E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.srcs/sources_1/new/alu.v,1690817631,verilog,,E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.srcs/sources_1/new/aluDecoder.v,,alu,,,,,,,,
+E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.srcs/sources_1/new/aluDecoder.v,1690822354,verilog,,E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.srcs/sources_1/new/beq.v,,aluDecoder,,,,,,,,
+E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.srcs/sources_1/new/beq.v,1690785506,verilog,,E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.srcs/sources_1/new/controler.v,,beq,,,,,,,,
+E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.srcs/sources_1/new/controler.v,1691431392,verilog,,E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.srcs/sources_1/new/datapath.v,,controler,,,,,,,,
+E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.srcs/sources_1/new/datapath.v,1691515938,verilog,,E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.srcs/sources_1/new/flopenr.v,,datapath,,,,,,,,
+E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.srcs/sources_1/new/flopenr.v,1690816948,verilog,,E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.srcs/sources_1/new/flopr.v,,flopenr,,,,,,,,
+E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.srcs/sources_1/new/flopr.v,1690827458,verilog,,E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.srcs/sources_1/new/floprc.v,,flopr,,,,,,,,
+E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.srcs/sources_1/new/floprc.v,1690827431,verilog,,E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.srcs/sources_1/new/hazard.v,,floprc,,,,,,,,
+E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.srcs/sources_1/new/hazard.v,1691515410,verilog,,E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.srcs/sources_1/new/mainDecoder.v,,hazard,,,,,,,,
+E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.srcs/sources_1/new/mainDecoder.v,1690732200,verilog,,E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.srcs/sources_1/new/mips.v,,mainDecoder,,,,,,,,
+E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.srcs/sources_1/new/mips.v,1690828670,verilog,,E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.srcs/sources_1/new/mux2to1.v,,mips,,,,,,,,
+E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.srcs/sources_1/new/mux2to1.v,1690731445,verilog,,E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.srcs/sources_1/new/mux3to1.v,,mux2to1,,,,,,,,
+E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.srcs/sources_1/new/mux3to1.v,1690825537,verilog,,E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.srcs/sources_1/new/pc.v,,mux3to1,,,,,,,,
+E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.srcs/sources_1/new/pc.v,1690817278,verilog,,E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.srcs/sources_1/new/regfile.v,,pc,,,,,,,,
+E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.srcs/sources_1/new/regfile.v,1690826927,verilog,,E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.srcs/sources_1/new/shl2.v,,regfile,,,,,,,,
+E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.srcs/sources_1/new/shl2.v,1690731765,verilog,,E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.srcs/sources_1/new/signExtend.v,,shl2,,,,,,,,
+E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.srcs/sources_1/new/signExtend.v,1690825632,verilog,,E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.srcs/sources_1/new/top.v,,signExtend,,,,,,,,
+E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.srcs/sources_1/new/top.v,1690827376,verilog,,E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab4 MIPS_Pipeline/lab_4.srcs/sim_1/new/top_test.v,,top,,,,,,,,

@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab1 baseComponent/base_component.srcs/sources_1/new/dividerpipe_design.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dividerpipe_design
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab1 baseComponent/base_component.srcs/sources_1/new/dividerpipe_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dividerpipe_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab1 baseComponent/base_component.srcs/sim_1/new/divider_pipe_test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module divider_pipe_test
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Architecture_Learn/Vivado_exercise/MIPS/Lab1 baseComponent/base_component.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

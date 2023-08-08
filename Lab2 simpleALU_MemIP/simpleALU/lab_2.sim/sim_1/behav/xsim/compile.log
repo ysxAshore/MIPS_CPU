@@ -1,0 +1,12 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Architecture_Learn/Vivado_exercise/mips_cpu/Lab2 simpleALU_MemIP/simpleALU/lab_2.srcs/sources_1/new/lab2_aluDesign.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aluDesign
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Architecture_Learn/Vivado_exercise/mips_cpu/Lab2 simpleALU_MemIP/simpleALU/lab_2.srcs/sources_1/new/lab2_alutop.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alutop
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Architecture_Learn/Vivado_exercise/mips_cpu/Lab2 simpleALU_MemIP/simpleALU/lab_2.srcs/sources_1/new/lab2_digitshow.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module digitshow
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Architecture_Learn/Vivado_exercise/mips_cpu/Lab2 simpleALU_MemIP/simpleALU/lab_2.srcs/sources_1/new/lab2_sevendigit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sevendigit
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Architecture_Learn/Vivado_exercise/mips_cpu/Lab2 simpleALU_MemIP/simpleALU/lab_2.srcs/sim_1/new/alutop_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alutop_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Architecture_Learn/Vivado_exercise/mips_cpu/Lab2 simpleALU_MemIP/simpleALU/lab_2.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
